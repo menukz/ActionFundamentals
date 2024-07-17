@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals 2024
+# GitHub Actions Fundamentals 2024 test
 
 Repo for the `GitHub Actions Fundamentals` training.
 
